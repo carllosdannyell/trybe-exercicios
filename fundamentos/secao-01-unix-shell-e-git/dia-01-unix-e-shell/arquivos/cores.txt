@@ -1,0 +1,5 @@
+azul
+preto
+rosa
+branco
+amarelo

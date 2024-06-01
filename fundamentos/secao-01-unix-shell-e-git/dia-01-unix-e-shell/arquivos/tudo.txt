@@ -1,0 +1,10 @@
+azul
+preto
+rosa
+branco
+amarelo
+abacate
+pera
+uva
+goiaba
+morango
